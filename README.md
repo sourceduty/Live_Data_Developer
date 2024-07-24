@@ -1,4 +1,4 @@
-![Live Data](https://github.com/user-attachments/assets/3f0ef4b6-96ed-4b0a-8d9b-55d148e5887d)
+![Live Data](https://github.com/user-attachments/assets/1b88ca25-5ac8-43a7-87a9-7200da808aba)
 
 > Assistive Python live data visualization developer.
 
@@ -14,6 +14,8 @@ Additionally, the Live Data Developer GPT focuses on creating various data visua
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Python Simulator](https://chat.openai.com/g/g-NLUSBfccY-python-simulator)
+<br>
+[Animated Plots](https://github.com/sourceduty/Animated_Plots)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
