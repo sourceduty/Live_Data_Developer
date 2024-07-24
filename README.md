@@ -1,4 +1,4 @@
-![Live Data](https://github.com/user-attachments/assets/1b88ca25-5ac8-43a7-87a9-7200da808aba)
+![Live Data](https://github.com/user-attachments/assets/e2a0de04-ce95-4058-9239-ab9acf3dadba)
 
 > Assistive Python live data visualization developer.
 
